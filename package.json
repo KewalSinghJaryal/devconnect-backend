@@ -1,0 +1,23 @@
+{
+  "name": "devconnect-backend",
+  "version": "1.0.0",
+  "description": "A platform where developers can:  Create profiles  Post blogs or portfolio projects  Connect and message each other  Follow others  Search by tech stack/interests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KewalSinghJaryal/devconnect-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KewalSinghJaryal/devconnect-backend/issues"
+  },
+  "homepage": "https://github.com/KewalSinghJaryal/devconnect-backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
